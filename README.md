@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzobilli&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobilli&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs of my public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobilli&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzobilli&theme=dark&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+[![My WakaTime last 7 days stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzobilli&theme=dark&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
