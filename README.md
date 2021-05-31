@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzobilli&custom_title=My Github stats&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzobilli&custom_title=My%20Github%20stats&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobilli&custom_title=Top languages used in my public repos&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobilli&custom_title=Top%20languages%20used%20in%20my%20public%20repos&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzobilli&custom_title=My WakaTime last 7 days stats&theme=dark&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzobilli&custom_title=My%20WakaTime%20last%207%20days%20stats&theme=dark&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
