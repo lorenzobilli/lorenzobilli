@@ -1,13 +1,11 @@
 # Hi there 👋
 
 ### I'm Lorenzo Billi! This is my GitHub page.
-
 #
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzobilli&custom_title=My%20Github%20stats&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
-#
 
 ![C](https://img.shields.io/badge/-C-b01030?&logo=c)
 ![C++](https://img.shields.io/badge/-C++-1b6f1b?&logo=cplusplus)
@@ -20,7 +18,6 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-00cccc?&logo=powershell)
 
 ## Technologies
-#
 
 ![Windows](https://img.shields.io/badge/-Windows-054d79?&logo=microsoft)
 ![macOS](https://img.shields.io/badge/-macOS-006600?&logo=apple)
